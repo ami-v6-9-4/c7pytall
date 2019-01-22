@@ -16,4 +16,4 @@ build:
   ci:
     - python --version 
     - pip --version
-    - virtualenv --version 
+    - virtualenv --version
